@@ -1,0 +1,12 @@
+#canvas_container{
+  width: 900px;
+  height: 90vh;
+  overflow: auto;
+  background: #333;
+  text-align: center;
+  border: solid 2px;
+}
+
+#my_pdf_viewer{
+  text-align: center;
+}
